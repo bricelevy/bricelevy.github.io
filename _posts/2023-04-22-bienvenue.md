@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bienvenue à la Maison du Tao"
+title:  "Bienvenue à Wuji Bruxelles"
 date:   2023-04-22 13:19:52 +0200
 categories: jekyll update
 ---
