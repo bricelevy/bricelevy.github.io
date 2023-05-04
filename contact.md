@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-En construction
+contact at wuji.be
