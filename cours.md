@@ -9,7 +9,7 @@ permalink: /cours/
 La « Boxe du printemps radieux »  詠春拳 Wing Chun Kuen est un art martial d’origine chinoise. c’est un style de Kung Fu particulièrement adapté au combat rapproché et à la self défense.
 
 ### Taiji Quan
-La « Boxe du printemps radieux » 太極拳 Taiji Quan (ou Tai Chi Chuan) est un art martial chinois dit "interne".
+La « Boxe de la grand polarité » 太極拳 Taiji Quan (ou Tai Chi Chuan) est un art martial chinois dit "interne".
 
 ### Qi Gong
 
