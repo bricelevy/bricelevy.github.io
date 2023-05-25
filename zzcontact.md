@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-contact at wuji.be
+Pour toute demande d'information, contactez-moi par mail : contact at wuji.be
