@@ -4,4 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-Pour toute demande d'information, contactez-moi par mail : contact at wuji.be
+## contact@wuji.be
+
+![Brice Levy](/images/brice_luco.jpg)
