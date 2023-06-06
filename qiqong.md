@@ -11,4 +11,4 @@ Pourtant avant d'être technique, le Qi Gong est une démarche, un cheminement d
 Les méthodes de Qi Gong proposent une exploration du mouvement dans toute sa richesse, de la respiration comme souffle de vie, de l'intention et de l'attention afin de libérer les plans physique, émotionnel et mental bases de l'équilibre de chacun.  
 
 
-<video src="/videos/qigong_1.mp4" controls="controls"></video>
+<video src="/videos/qigong_1.mp4" controls="controls" width="100%" height="auto"></video>
