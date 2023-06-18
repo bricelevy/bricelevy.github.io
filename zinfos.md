@@ -4,18 +4,23 @@ title: Infos Pratiques
 permalink: /infos/
 ---
 
-# Ateliers de Qi Gong à La Vallée
+## Cours de Taiji / Qi Gong en extérieur en août 2023
+Des cours de Taiji et Qi Gong auront lieu cet été au parc de Forest ainsi qu'aux jardins de l'abbaye de La Cambre.<br/>
+Les horaires et emplacements restent à définir.<br/>
+Ces cours en extérieur sont sur participation libre !
 
+
+## Ateliers de Qi Gong à La Vallée
 Des ateliers de Qi Gong ont lieu un dimanche après-midi par mois au studio [La Vallée Yoga & Pilates](https://yogavallee.be/) au 51, rue de la Vallée – 1050 Ixelles.<br>
 Ces ateliers sont ouverts à tous niveaux et peuvent être suivis indépendemment les uns des autres.<br>
 Le prix est de 35€, dont 10€ lors de l'inscription via la plateforme Eversports.
 
+# Ateliers à venir
+Les ateliers reprendront en septembre 2023
 
-## Ateliers à venir
+# Ateliers passés
 Dimanche 11 Juin 2023 - 13h30 à 16h - Les Huit pièces de Brocard (2ème partie)<br>
-Inscription via Eversports [ici](https://www.eversports.be/e/workshop/zmzSBTRvu)
 
-## Ateliers passés
 Dimanche 21 Mai 2023 - 13h30 à 16h - Les Huit pièces de Brocard (1ère partie)<br>
 
 Dimanche 16 Avril 2023 - 13h30 à 16h - Qi Gong & Tai Chi<br>
