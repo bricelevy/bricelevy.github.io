@@ -4,8 +4,8 @@ title: Infos Pratiques
 permalink: /infos/
 ---
 
-## Cours de Taiji / Qi Gong en extérieur en août 2023
-Des cours de Taiji et Qi Gong auront lieu cet été au parc de Forest ainsi qu'aux jardins de l'abbaye de La Cambre.<br/>
+## Cours de Tai Chi / Qi Gong en extérieur en août 2023
+Des cours de Tai Chi et Qi Gong auront lieu cet été au parc de Forest ainsi qu'aux jardins de l'abbaye de La Cambre.<br/>
 Les horaires et emplacements restent à définir.<br/>
 Ces cours en extérieur sont sur participation libre !
 

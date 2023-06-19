@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Taiji Quan
-permalink: /taiji/
+title: Tai Chi Chuan
+permalink: /taichi/
 ---
 
-![Taiji Quan](/images/Taiji_calli.jpg)
+![Tai Chi Quan](/images/Taiji_calli.jpg)
 
 <br/>
 La « Boxe de la grand polarité » 太極拳 Taiji Quan (ou Tai Chi Chuan) est un art martial dont on attribue la paternité au légendaire ZHANG San Feng qui vécut dans les Monts Wudang situés au centre de la Chine. Bien que son nom soit tardif (fin XIXe siècle), il puise ses origines dans différents styles de boxe du Nei Jia Quan (boxe de style interne) et les sources connues remontent au XVIIe siècle.
@@ -22,4 +22,4 @@ Il se compose principalement
 
 
 <br/>
-L'enseignement proposé est celui de l'école Wudang de Cheng Tin Hung (1930-2005), popularisée en Europe notamment par son élève Dan Docherty (1954-2021).
+L'enseignement proposé est celui de l'école Wudang de Cheng Tin Hung (1930-2005), popularisée en Europe notamment par son élève Dan Docherty (1954-2021) sous le nom de "Practical Tai Chi Chuan".

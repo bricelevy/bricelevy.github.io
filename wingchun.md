@@ -6,8 +6,9 @@ permalink: /wingchun/
 
 ![Wing Chun](/images/Wingchun_calli.jpg)
 
-La « Boxe du printemps radieux »  詠春拳 Wing Chun Kuen est un art martial d’origine chinoise. c’est un style de Kung Fu particulièrement adapté au combat rapproché et à la self défense.<br/><br/>
-L'enseignement se fait au travers d'enchaînements de mouvements codifiés (les formes, ou taos) permettant d'assimiler les techniques et de former le corps; d'exercices applicatifs avec un partenaire, pour intégrer les techniques et principes en situation; et des exercices de "mains collantes" (ou chi sao) qui est un travail particulier de sensitivité et d'adaptation à la situation.
+La « Boxe du printemps radieux »  詠春拳 Wing Chun Kuen est un art martial chinois. C’est un style de Kung Fu particulièrement adapté au combat rapproché et à la self défense.
+<br/><br/>
+L'enseignement se fait au travers d'enchaînements de mouvements codifiés (les formes, ou taos) permettant d'assimiler les techniques et de former le corps; d'exercices applicatifs avec un partenaire, pour intégrer les techniques et principes en situation; et d'exercices de "mains collantes" (ou chi sao) qui est un travail particulier de sensitivité et d'adaptation à la situation.
 
 Il y a trois formes à mains nues :
 - Siu Lim Tao (la petite idée, l'idée qui germe) développe les principes de base qui sont les fondations du style, comme le principe de ligne centrale, ou celui d'attaque et défense simultanées.
