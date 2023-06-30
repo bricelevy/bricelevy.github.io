@@ -9,9 +9,14 @@ Des cours de Tai Chi et Qi Gong auront lieu cet été au parc de Forest ainsi qu
 Les horaires et emplacements restent à définir.<br/>
 Ces cours en extérieur sont sur participation libre !
 
+## Cours hebdomadaires Qi Gong et Tai Chi Chuan
+A partir du 15 septembre 2023, cours de Qi Gong et Tai Chi Chuan Avenue Ducpétiaux 133, 1060 Saint-Gilles (dans la cour, salle du bas).
+<br/><br/>
+Vendredi 18h00 -> 19h20 : Qi Gong<br/>
+Vendredi 19h30 -> 20h50 : Tai Chi Chuan<br/>
 
 ## Ateliers de Qi Gong à La Vallée
-Des ateliers de Qi Gong ont lieu un dimanche après-midi par mois au studio [La Vallée Yoga & Pilates](https://yogavallee.be/) au 51, rue de la Vallée – 1050 Ixelles.<br>
+Des ateliers de Qi Gong ont lieu un dimanche après-midi par mois au studio [La Vallée Yoga & Pilates](https://yogavallee.be/), rue de la Vallée 51, 1050 Ixelles.<br>
 Ces ateliers sont ouverts à tous niveaux et peuvent être suivis indépendemment les uns des autres.<br>
 Le prix est de 35€, dont 10€ lors de l'inscription via la plateforme Eversports.
 
