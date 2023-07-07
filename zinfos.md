@@ -21,7 +21,7 @@ A partir du 15 septembre 2023, cours de Qi Gong et Tai Chi Chuan Avenue Ducpéti
 Vendredi 18h00 -> 19h20 : Qi Gong<br/>
 Vendredi 19h30 -> 20h50 : Tai Chi Chuan<br/>
 
-Le prix des cours est de 15€ à l'unité, et 130€ pour une carte de 10 cours.
+Le prix des cours est de 15€ à l'unité, et 120€ pour une carte de 10 cours.
 
 ## Ateliers de Qi Gong à La Vallée
 Des ateliers de Qi Gong ont lieu un dimanche après-midi par mois au studio [La Vallée Yoga & Pilates](https://yogavallee.be/), rue de la Vallée 51, 1050 Ixelles.<br>
