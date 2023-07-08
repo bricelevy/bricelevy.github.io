@@ -12,7 +12,7 @@ Ces cours en extérieur sont sur participation libre.<br />
 <br />
 
 - Les lundis 7, 14, 21 et 28 du mois d'août, de 19h à 20h au parc de Forest
-<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2520.403531059155!2d4.340155!3d50.823688999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTDCsDQ5JzI1LjMiTiA0wrAyMCcyNC42IkU!5e0!3m2!1sfr!2sfr!4v1688481501648!5m2!1sfr!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2520.523639797308!2d4.335904315744863!3d50.82146397952833!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTDCsDQ5JzE3LjMiTiA0wrAyMCcxNy4xIkU!5e0!3m2!1sfr!2sfr!4v1688821676879!5m2!1sfr!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ## Cours hebdomadaires Qi Gong et Tai Chi Chuan
