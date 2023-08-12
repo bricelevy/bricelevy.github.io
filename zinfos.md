@@ -15,13 +15,14 @@ Ces cours en extérieur sont sur participation libre.<br />
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2520.523639797308!2d4.335904315744863!3d50.82146397952833!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTDCsDQ5JzE3LjMiTiA0wrAyMCcxNy4xIkU!5e0!3m2!1sfr!2sfr!4v1688821676879!5m2!1sfr!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-## Cours hebdomadaires Qi Gong et Tai Chi Chuan
-A partir du 15 septembre 2023, cours de Qi Gong et Tai Chi Chuan Avenue Ducpétiaux 133, 1060 Saint-Gilles (dans la cour, salle du bas).
+## Cours hebdomadaires
+A partir du 15 septembre 2023, cours de Qi Gong/Tai Chi Chuan et Wing Chun Avenue Ducpétiaux 133, 1060 Saint-Gilles (dans la cour, salle du bas).
 <br/><br/>
-Vendredi 18h00 -> 19h20 : Qi Gong<br/>
-Vendredi 19h30 -> 20h50 : Tai Chi Chuan<br/>
+Vendredi 18h00 -> 19h20 : Qi Gong & Tai Chi Chuan<br/>
+Vendredi 19h30 -> 20h50 : Wing Chun<br/>
 
-Le prix des cours est de 15€ à l'unité, et 120€ pour une carte de 10 cours.
+Le prix des cours est de 15€ à l'unité, et 120€ pour une carte de 10 cours.<br/>
+Le premier cours de découverte est à 5€.
 
 ## Ateliers de Qi Gong à La Vallée
 Des ateliers de Qi Gong ont lieu un dimanche après-midi par mois au studio [La Vallée Yoga & Pilates](https://yogavallee.be/), rue de la Vallée 51, 1050 Ixelles.<br>
