@@ -16,7 +16,7 @@ Le premier cours de découverte est à 5€.
 ## Ateliers de Qi Gong à La Vallée
 Des ateliers de Qi Gong ont lieu un dimanche après-midi par mois au studio [La Vallée Yoga & Pilates](https://yogavallee.be/), rue de la Vallée 51, 1050 Ixelles.<br>
 Ces ateliers sont ouverts à tous niveaux et peuvent être suivis indépendamment les uns des autres.<br>
-Le prix est de 35€, dont 10€ lors de l'inscription via la plateforme Eversports.
+Le prix est de 35€, dont 10€ lors de l'inscription via la plateforme [Eversports](https://www.eversports.be/sw/la-vallee-yoga-pilates-bruxelles).
 
 # Ateliers 2023/2024
 Dimanche 24 septembre 2023 - 13h00 à 16h00 - Qigong & Taichi<br/>
@@ -34,6 +34,8 @@ Dimanche 11 Décembre 2022 - 13h00 à 16h - Souffle au repos, souffle en mouveme
 Dimanche 20 Novembre 2022 - 13h00 à 16h - Quiétude et Mouvement<br/>
 Dimanche 23 Octobre 2022 - 13h00 à 16h - Trouver le centre, Déployer l'espace<br/>
 
+
+<!---
 ## Cours de Tai Chi / Qi Gong en extérieur en août 2023
 Des cours de Tai Chi / Qi Gong ont lieu au mois d'août cet été au parc de Forest ainsi qu'aux jardins de l'abbaye de La Cambre.<br/>
 Ces cours en extérieur sont sur participation libre.<br />
@@ -43,3 +45,5 @@ Ces cours en extérieur sont sur participation libre.<br />
 
 - Les lundis 7, 14, 21 et 28 du mois d'août, de 19h à 20h au parc de Forest
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2520.523639797308!2d4.335904315744863!3d50.82146397952833!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTDCsDQ5JzE3LjMiTiA0wrAyMCcxNy4xIkU!5e0!3m2!1sfr!2sfr!4v1688821676879!5m2!1sfr!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+--->
