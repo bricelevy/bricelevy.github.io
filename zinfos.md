@@ -18,13 +18,15 @@ Le dernier cours de l'année sera vendredi 15 Décembre 2023.<br/>
 ## Ateliers de Qi Gong à La Vallée
 Des ateliers de Qi Gong ont lieu un dimanche après-midi par mois au studio [La Vallée Yoga & Pilates](https://yogavallee.be/), rue de la Vallée 51, 1050 Ixelles.<br>
 Ces ateliers sont ouverts à tous niveaux et peuvent être suivis indépendamment les uns des autres.<br>
-Le prix est de 35€, dont 10€ lors de l'inscription via la plateforme [Eversports](https://www.eversports.be/sw/la-vallee-yoga-pilates-bruxelles).
+Le prix est de 35€, dont 10€ lors de l'inscription via la plateforme [Eversports](https://www.eversports.be/e/workshop/kPai7yV).
 
 # Ateliers 2023/2024
 Dimanche 24 septembre 2023 - 13h00 à 16h00 - Qigong & Taichi<br/>
 Dimanche 22 octobre 2023 - 13h00 à 16h00 - Qigong & Taichi<br/>
 Dimanche 12 novembre 2023 - 13h00 à 16h00 - Qigong & Taichi<br/>
-Dimanche 10 decembre 2023 - 13h00 à 16h00 - Qigong & Taichi<br/>
+Dimanche 10 décembre 2023 - 13h00 à 16h00 - Qigong & Taichi<br/>
+Dimanche 28 janvier 2024 - 13h00 à 16h00 - Qigong & Taichi<br/>
+Dimanche 25 février 2024 - 13h00 à 16h00 - Qigong & Taichi<br/>
 
 # Ateliers passés
 Dimanche 11 Juin 2023 - 13h30 à 16h - Les Huit pièces de Brocard (2ème partie)<br/>
