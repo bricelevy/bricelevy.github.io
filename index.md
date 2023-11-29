@@ -4,8 +4,8 @@
 
 layout: home
 ---
-<br /><br /><br /><br /><br /><br />
-<p align="center"><img src="/images/Enso2.png" /></p>
+<br />
+<p align="center"><img src="/images/wuji-logonotext.png" /></p>
 
 <br />
  Wuji est un concept de la pensée taoïste qui peut se traduire par "l'absence de polarité", en opposition à Taiji (ou Tai Chi), qui est "L'extrême polarité" du Yin et du Yang.<br />
