@@ -22,5 +22,5 @@ Brice Levy pratique les arts martiaux chinois (Wing Chun, Taiji Quan) depuis plu
 
 ![taiji_forme](/images/taiji_forme.jpg)
  <br /> <br />
- L'apprentissage ne s'arrête jamais. Je continue à me former auprès de mes professeurs, tout en goûtant d'autres disciplines (systema, yoga, tui shou ...) afin d'ouvrir toujours plus mes horizons et enrichir mon expérience.
+ L'apprentissage ne s'arrête jamais. Brice continue à se former auprès de ses professeurs, tout en goûtant d'autres disciplines (systema, yoga, tui shou ...) afin d'ouvrir toujours plus ses horizons et enrichir son expérience.
 
