@@ -13,7 +13,7 @@ Vendredi 19h35 -> 21h : Wing Chun<br/>
 Le prix des cours est de 15€ à l'unité, et 120€ pour une carte de 10 cours.<br/>
 Le premier cours de découverte est à 5€.<br/>
 
-Le dernier cours de l'année sera vendredi 15 Décembre 2023.<br/>
+Le dernier cours de l'année sera vendredi 15 Décembre 2023, reprise le vendredi 5 Janvier 2024.<br/>
 
 ## Ateliers de Qi Gong à La Vallée
 Des ateliers de Qi Gong ont lieu un dimanche après-midi par mois au studio [La Vallée Yoga & Pilates](https://yogavallee.be/), rue de la Vallée 51, 1050 Ixelles.<br>
