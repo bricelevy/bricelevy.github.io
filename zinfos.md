@@ -5,15 +5,13 @@ permalink: /infos/
 ---
 
 ## Cours hebdomadaires
-A partir du 15 septembre 2023, cours de Qi Gong/Tai Chi Chuan et Wing Chun : Avenue Ducpétiaux 133A, 1060 Saint-Gilles (dans la cour, salle du bas).
+L'adresse pour les cours de Qi Gong/Tai Chi Chuan et de Wing Chun est : Avenue Ducpétiaux 133A, 1060 Saint-Gilles (dans la cour, salle du bas).
 <br/><br/>
 Vendredi 18h00 -> 19h25 : Qi Gong & Tai Chi Chuan<br/>
 Vendredi 19h35 -> 21h : Wing Chun<br/>
 
 Le prix des cours est de 15€ à l'unité, et 120€ pour une carte de 10 cours.<br/>
 Le premier cours de découverte est à 5€.<br/>
-
-Le dernier cours de l'année aura lieu vendredi 15 Décembre 2023, reprise le vendredi 5 Janvier 2024.<br/>
 
 ## Ateliers de Qi Gong à La Vallée
 Des ateliers de Qi Gong ont lieu un dimanche après-midi par mois au studio [La Vallée Yoga & Pilates](https://yogavallee.be/), rue de la Vallée 51, 1050 Ixelles.<br>
@@ -27,7 +25,12 @@ Dimanche 12 novembre 2023 - 13h00 à 16h00 - Qigong & Taichi<br/>
 Dimanche 10 décembre 2023 - 13h00 à 16h00 - Qigong & Taichi<br/>
 Dimanche 28 janvier 2024 - 13h00 à 16h00 - Qigong & Taichi<br/>
 Dimanche 25 février 2024 - 13h00 à 16h00 - Qigong & Taichi<br/>
+Dimanche 24 Mars 2024 - 13h00 à 16h00 - Qigong & Taichi<br/>
+Dimanche 14 Avril 2024 - 13h00 à 16h00 - Qigong & Taichi<br/>
+Dimanche 26 Mai 2024 - 13h00 à 16h00 - Qigong & Taichi<br/>
+Dimanche 16 Juin 2024 - 13h00 à 16h00 - Qigong & Taichi<br/>
 
+<!---
 # Ateliers passés
 Dimanche 11 Juin 2023 - 13h30 à 16h - Les Huit pièces de Brocard (2ème partie)<br/>
 Dimanche 21 Mai 2023 - 13h30 à 16h - Les Huit pièces de Brocard (1ère partie)<br/>
@@ -37,7 +40,7 @@ Dimanche 19 Février 2023 - 13h30 à 16h - Terre & Ciel<br/>
 Dimanche 11 Décembre 2022 - 13h00 à 16h - Souffle au repos, souffle en mouvement<br/>
 Dimanche 20 Novembre 2022 - 13h00 à 16h - Quiétude et Mouvement<br/>
 Dimanche 23 Octobre 2022 - 13h00 à 16h - Trouver le centre, Déployer l'espace<br/>
-
+--->
 
 <!---
 ## Cours de Tai Chi / Qi Gong en extérieur en août 2023
