@@ -21,4 +21,5 @@ A niveaux plus avancés, le travail des formes se porte sur le mannequin de bois
 ![wc dummy](/images/wc_dummy.jpg)
 
 <br/><br/>
-L'enseignement proposé est celui de l'école [France Wing Chun](https://francewingchun.fr/) de [Sifu Lionel Roulier](https://francewingchun.fr/philosophie/lionel-roulier/), lui-même élève des maîtres Fok Chiu, Chow Tze Chuen et Mak Kwong Kuen.
+Brice a commencé son chemin martial au sein de l'école [France Wing Chun](https://francewingchun.fr/) de [Sifu Lionel Roulier](https://francewingchun.fr/philosophie/lionel-roulier/). Les rencontres avec différentes pratiques et professeurs ont alimenté sa curiosité, ses expériences, et contribuent à l'enseignement du Wing Chun qu'il propose.
+
