@@ -4,7 +4,7 @@ title: A Propos
 permalink: /apropos/
 ---
 
-Brice Levy pratique les arts martiaux chinois (Wing Chun, Taiji Quan) depuis plus de dix ans auprès de mes professeurs (Lionel Roulier, Luce Condamine), ainsi que le Qi Gong avec Laurence Cortadellas et Jean-Michel Chomet au sein de l'école Zhi Rou Jia (Ecole de Développement de la Douceur).
+Brice Levy pratique les arts martiaux chinois (Wing Chun, Taiji Quan) depuis plus de dix ans auprès de ses professeurs (Lionel Roulier, Luce Condamine), ainsi que le Qi Gong avec Laurence Cortadellas et Jean-Michel Chomet au sein de l'école Zhi Rou Jia (Ecole de Développement de la Douceur).
 
 ![7stars](/images/7stars.jpg)
 
