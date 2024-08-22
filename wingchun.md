@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Wing Chun
 permalink: /wingchun/
 ---
+
+<!-- Page cachée, ajouter un title: pour l'activer-->
 
 ![Wing Chun](/images/Wingchun_calli.jpg)
 

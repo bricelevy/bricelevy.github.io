@@ -18,7 +18,7 @@ Le concept de Taiji fait référence au changement perpétuel entre les pôles Y
 Il se compose principalement
 - d'enchaînements codifiés (formes ou taos) à mains nues ou avec armes (la lance, le sabre, l'épée)
 - d'exercices avec partenaire d'applications martiales , pour mettre en application les techniques présentes dans les formes
-- d'exercices avec partenaire de poussée des mains (tui shou), permettant le développement de qualité particulières telles que le relâchement (fang song) ou la sensitivité (ting jing)
+- d'exercices avec partenaire de poussée des mains (tui shou), permettant le développement de qualités particulières telles que le relâchement (fang song) ou l'écoute (ting jing)
 
 
 <br/>

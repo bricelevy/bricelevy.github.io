@@ -5,16 +5,14 @@ permalink: /infos/
 ---
 
 ## Cours hebdomadaires
-L'adresse pour les cours de Qi Gong/Tai Chi Chuan et de Wing Chun est : Avenue Ducpétiaux 133A, 1060 Saint-Gilles (dans la cour, salle du bas).
-<br/><br/>
-Vendredi 18h00 -> 19h25 : Qi Gong & Tai Chi Chuan<br/>
-Vendredi 19h35 -> 21h : Wing Chun<br/>
+Les cours ont lieu les mardis et vendredis soir à Saint-Gilles :<br/>
+- Mardi de 20h30 à 22h, La  Tortue à Plumes : rue André Hennebicq 43 - Taichi Chuan<br/>
+- Vendredi de 18h00 à 19h30, Yogasala : Avenue Ducpétiaux 133A - Qi Gong & Taichi Chuan<br/>
 
 Le prix des cours est de 15€ à l'unité, et 120€ pour une carte de 10 cours.<br/>
 Le premier cours de découverte est à 5€.<br/>
 
-Le dernier cours de la saison 2023/2024 a eu lieu le vendredi 21 juin 2024.<br />
-Le premier cours de la saison 2024/2025 est prévu le vendredi 13 septembre 2024.
+Les premiers cours de la saison 2024/2025 ont lieu le vendredi 13 septembre et le mardi 17 septembre 2024.
 
 
 ## Ateliers de Qi Gong & Taichi à La Vallée

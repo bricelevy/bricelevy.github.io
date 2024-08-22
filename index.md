@@ -14,5 +14,5 @@ C'est le chaos fertile primordial qui engendre le Taiji, l'ordre harmonieux dans
 Wuji est aussi le début et la fin de chaque cycle, l'état neutre préalable au mouvement, et résultat du mouvement.<br />
 Il est, juste avant leur réalisation, le lieu de tous les possibles, et juste après leur déroulement, l'accomplissement de toutes les actions.
 <br /><br />
-Les trois disciplines proposées (Kung Fu Wing Chun, Taiji Quan et Qi Gong), sont en lien direct avec la philosophie taoïste.<br />
+Les disciplines proposées (Taiji Quan et Qi Gong), sont en lien direct avec la philosophie taoïste.<br />
 Wuji est donc aussi le point de départ de l'élève abordant la pratique, guidé par le professeur, et chaque accomplissement personnel sur cette voie est aussi Wuji.
