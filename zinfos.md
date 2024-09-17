@@ -21,33 +21,19 @@ Des ateliers de Qi Gong & Taichi chuan ont lieu un dimanche après-midi par mois
 Ces ateliers sont ouverts à tous niveaux et peuvent être suivis indépendamment les uns des autres.<br>
 Le prix est de 35€, dont 10€ lors de l'inscription via la plateforme [Eversports](https://www.eversports.be/e/workshop/kPai7yV).
 
-# Ateliers 2023/2025
-Dates à venir ...
+# Ateliers 2024/2025
 
+- Dimanche 29 septembre 2024 - 13h00 à 16h00<br/>
+- Dimanche 27 octobre 2024 - 13h00 à 16h00 <br/>
+- Dimanche 24 novembre 2024 - 13h00 à 16h00<br/>
+- Dimanche 15 décembre 2024 - 13h00 à 16h00<br/>
+- Dimanche 26 janvier 2025 - 13h00 à 16h00<br/>
+- Dimanche 23 février 2025 - 13h00 à 16h00<br/>
+- Dimanche 30 mars 2025 - 13h00 à 16h00<br/>
+- Dimanche 27 avril 2025 - 13h00 à 16h00<br/>
+- Dimanche 25 mai 2025 - 13h00 à 16h00<br/>
+- Dimanche 15 juin 2025 - 13h00 à 16h00<br/>
 
-<!---
-# Ateliers passés
-Dimanche 24 septembre 2023 - 13h00 à 16h00 - Qigong & Taichi<br/>
-Dimanche 22 octobre 2023 - 13h00 à 16h00 - Qigong & Taichi<br/>
-Dimanche 12 novembre 2023 - 13h00 à 16h00 - Qigong & Taichi<br/>
-Dimanche 10 décembre 2023 - 13h00 à 16h00 - Qigong & Taichi<br/>
-Dimanche 28 janvier 2024 - 13h00 à 16h00 - Qigong & Taichi<br/>
-Dimanche 25 février 2024 - 13h00 à 16h00 - Qigong & Taichi<br/>
-Dimanche 24 Mars 2024 - 13h00 à 16h00 - Qigong & Taichi<br/>
-Dimanche 14 Avril 2024 - 13h00 à 16h00 - Qigong & Taichi<br/>
-Dimanche 26 Mai 2024 - 13h00 à 16h00 - Qigong & Taichi<br/>
-Dimanche 16 Juin 2024 - 13h00 à 16h00 - Qigong & Taichi<br/>
-
-
-Dimanche 11 Juin 2023 - 13h30 à 16h - Les Huit pièces de Brocard (2ème partie)<br/>
-Dimanche 21 Mai 2023 - 13h30 à 16h - Les Huit pièces de Brocard (1ère partie)<br/>
-Dimanche 16 Avril 2023 - 13h30 à 16h - Qi Gong & Tai Chi<br/>
-Dimanche 26 Mars 2023 - 13h30 à 16h - Constance & Changements<br/>
-Dimanche 19 Février 2023 - 13h30 à 16h - Terre & Ciel<br/>
-Dimanche 11 Décembre 2022 - 13h00 à 16h - Souffle au repos, souffle en mouvement<br/>
-Dimanche 20 Novembre 2022 - 13h00 à 16h - Quiétude et Mouvement<br/>
-Dimanche 23 Octobre 2022 - 13h00 à 16h - Trouver le centre, Déployer l'espace<br/>
---->
 
 <!---
 ## Cours de Tai Chi / Qi Gong en extérieur en juillet et août 2024
