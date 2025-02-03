@@ -5,6 +5,9 @@ permalink: /infos/
 ---
 
 ## Cours hebdomadaires
+
+# Attention !<br/> Exceptionnellement, il n'y aura pas de cours le vendredi 14 février.
+
 Les cours ont lieu les mardis et vendredis soir à Saint-Gilles :<br/>
 - Mardi de 20h30 à 22h, La  Tortue à Plumes : Rue André Hennebicq 43 - Qi Gong & Taichi Chuan
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5040.423008495598!2d4.332841676888622!3d50.82724616016207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c441e6873d83%3A0x6fefa40a6e2ed5a7!2sRue%20Andr%C3%A9%20Hennebicq%2043%2C%201060%20Saint-Gilles!5e0!3m2!1sfr!2sbe!4v1726604711334!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -14,10 +17,8 @@ Les cours ont lieu les mardis et vendredis soir à Saint-Gilles :<br/>
 
 <br />
 Le prix des cours est de 15€ à l'unité, et 120€ pour une carte de 10 cours.<br/>
-Le premier cours de découverte est à 5€.<br/>
+Le premier cours de découverte gratuit.<br/>
 Si vous avez la possibilité d'assister aux deux cours dans la semaine, un abonnement est possible pour le trimestre (septembre à décembre, janvier à mars, avril à juin), au prix de 220€.<br/>
-
-Les premiers cours de la saison 2024/2025 ont lieu le vendredi 13 septembre et le mardi 17 septembre 2024.
 
 
 ## Ateliers de Qi Gong & Taichi à La Vallée
