@@ -22,4 +22,7 @@ Il se compose principalement
 
 
 <br/>
+# Le style Wudang
 L'enseignement proposé est celui de l'école Wudang de Cheng Tin Hung (1930-2005), popularisée en Europe notamment par son élève Dan Docherty (1954-2021) sous le nom de "Practical Tai Chi Chuan".
+
+![Lineage](/images/lignage_big.gif)
