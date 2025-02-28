@@ -24,3 +24,17 @@ Brice Levy pratique les arts martiaux chinois (Wing Chun, Taiji Quan) depuis plu
  <br /> <br />
  L'apprentissage ne s'arrête jamais. Brice continue à se former auprès de ses professeurs, tout en goûtant d'autres disciplines (systema, yoga, tui shou ...) afin d'ouvrir toujours plus ses horizons et enrichir son expérience.
 
+# Remerciements
+
+A mes maîtres, mes professeurs, mes amis
+
+- Dr Luce Condamine - Wudang Taichi Chuan - [La Maison du Taiji](http://lucecondamine.free.fr/)
+- Godfrey Dornelly - Wudang Taichi Chuan - [Three Treasures Wudang](https://taichi-school.co.uk/)
+- Wim Demeere - Wudang Taichi Chuan - [Pan Long Academy](https://panlongacademy.com/)
+- Lionel Roulier - Wing Chun Kuen - [France Wing Chun](https://francewingchun.fr/)
+- Laurence Cortadellas & Jean-Michel Chomet - Qigong & Neigong - [Zhiroujia](https://zhiroujia.fr/)
+- Etienne Borel - Tui Shou - [La tortue à plumes](https://tortueaplumes.be/)
+- Pierre Wattiaux - Systema - [Systema Brussels](https://www.systemabrussels.com/)
+- Benoît Conotte - Yoga des postures - [Yogasala](https://yogasala.be)
+- Studio La Vallée - Yoga & Pilates - [La Vallée Yoga & Pilates](https://yogavallee.be)
+- Antoine Jovenet pour le logo - [Dapunch](https://dapunch.com/)
