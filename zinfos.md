@@ -37,7 +37,6 @@ Le prix est de 35€, dont 10€ lors de l'inscription via la plateforme [Eversp
 - Dimanche 30 mars 2025 - 13h00 à 16h00<br/>
 - Dimanche 27 avril 2025 - 13h00 à 16h00<br/>
 - Dimanche 25 mai 2025 - 13h00 à 16h00<br/>
-- Dimanche 15 juin 2025 - 13h00 à 16h00<br/>
 
 
 <!---
