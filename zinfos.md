@@ -6,7 +6,7 @@ permalink: /infos/
 
 ## Cours hebdomadaires
 
-### Exceptionnellement, pas de cours le vendredi 9 mai !
+### Exceptionnellement, pas de cours le vendredi 9, le mardi 27 et le vendredi 30 du mois de mai !
 
 Les cours ont lieu les mardis et vendredis soir à Saint-Gilles :<br/>
 - Mardi de 20h30 à 22h, La  Tortue à Plumes : Rue André Hennebicq 43 - Qi Gong & Taichi Chuan
