@@ -18,7 +18,7 @@ Ces cours en extérieur sont ouverts à toutes et tous et sont gratuits.<br />
 <br/>
 ## Cours hebdomadaires
 
-### Les derniers cours de la saison auront lieu le mardi 17 et le vendredi 20 juin
+### Reprise des cours pour la rentrée 2025 le 16 septembre (mardi) et 19 septembre (vendredi)
 
 Les cours ont lieu les mardis et vendredis soir à Saint-Gilles :<br/>
 - Mardi de 20h30 à 22h, La  Tortue à Plumes : Rue André Hennebicq 43 - Qi Gong & Taichi Chuan
@@ -28,7 +28,7 @@ Les cours ont lieu les mardis et vendredis soir à Saint-Gilles :<br/>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5040.949631010119!2d4.3428059768883704!3d50.822368460514895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c45c7e43f25d%3A0x1ec35782b9ac2d88!2sAv.%20Ducp%C3%A9tiaux%20133A%2C%201060%20Saint-Gilles!5e0!3m2!1sfr!2sbe!4v1726604780321!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <br />
-Le prix des cours est de 15€ à l'unité, et 120€ pour une carte de 10 cours.<br/>
+Le prix des cours est de 17€ à l'unité, et 135€ pour une carte de 10 cours.<br/>
 Le premier cours de découverte gratuit.<br/>
 
 
