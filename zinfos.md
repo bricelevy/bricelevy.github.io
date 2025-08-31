@@ -37,7 +37,7 @@ Des ateliers de Qi Gong & Taichi chuan ont lieu un dimanche après-midi par mois
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5040.921139893006!2d4.367883176888389!3d50.822632360495895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c4ec4ae55b51%3A0x8cb80a76b33f6931!2sRue%20de%20la%20Vall%C3%A9e%2051%2C%201000%20Bruxelles!5e0!3m2!1sfr!2sbe!4v1726604862040!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br/>
 Ces ateliers sont ouverts à tous niveaux et peuvent être suivis indépendamment les uns des autres.<br>
-Le prix est de 35€, dont 10€ lors de l'inscription via la plateforme [Eversports](https://www.eversports.be/e/workshop/kPai7yV).
+Le prix est de 35€, dont 10€ lors de l'inscription via la plateforme [Eversports](https://www.eversports.be/e/workshop/hQKqtNP).
 
 # Ateliers fin 2025
 
