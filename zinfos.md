@@ -4,7 +4,7 @@ title: Infos Pratiques
 permalink: /infos/
 ---
 
-
+<!--
 ## Cours de Tai Chi / Qi Gong au parc cet été 2025
 Retrouvons-nous cet été pour des séances de Tai Chi / Qi Gong au parc Duden ainsi qu'aux jardins de l'abbaye de La Cambre.<br/>
 Ces cours en extérieur sont ouverts à toutes et tous et sont gratuits.<br />
@@ -14,6 +14,7 @@ Ces cours en extérieur sont ouverts à toutes et tous et sont gratuits.<br />
 
 - Les lundis 21 juillet, 4 août et 1er septembre, de 19h à 20h au parc Duden
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2520.777336702971!2d4.333308!3d50.816764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTDCsDQ5JzAwLjQiTiA0wrAxOSc1OS45IkU!5e0!3m2!1sfr!2sbe!4v1720446829282!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+-->
 
 <br/>
 ## Cours hebdomadaires
