@@ -19,7 +19,9 @@ Ces cours en extérieur sont ouverts à toutes et tous et sont gratuits.<br />
 <br/>
 ## Cours hebdomadaires
 
-### Reprise des cours pour la rentrée 2025 le 16 septembre (mardi) et 19 septembre (vendredi)
+### Derniers cours de l'année 2025 les 16 (mardi) et 19 décembre (vendredi)
+
+### Reprise des cours pour la rentrée 2026 les 6 (mardi) et 9 janvier (vendredi)
 
 Les cours ont lieu les mardis et vendredis soir à Saint-Gilles :<br/>
 - Mardi de 20h30 à 22h, La  Tortue à Plumes : Rue André Hennebicq 43 - Qi Gong & Taichi Chuan
