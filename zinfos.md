@@ -24,7 +24,7 @@ Les cours ont lieu les mardis et vendredis soir à Saint-Gilles :<br/>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.211164145187!2d4.332826776888637!3d50.827252460161525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c54563118629%3A0x2342029fb2afa6b6!2sLa%20tortue%20%C3%A0%20plumes!5e0!3m2!1sfr!2sbe!4v1770027235598!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br />
 - Vendredi de 18h00 à 19h30 - Qi Gong & Taichi Chuan
-    - Les vendredis 20 mars, 27 mars et 17 avril, Yogasala : Avenue Ducpétiaux 133A
+    - Les vendredis 13 février, 20 février, 20 mars, 27 mars et 17 avril, Yogasala : Avenue Ducpétiaux 133A
 	- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5040.949631010119!2d4.3428059768883704!3d50.822368460514895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c45c7e8ce679%3A0x5a210e0582cfd050!2sYogasala!5e0!3m2!1sfr!2sbe!4v1770027281154!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br/>
     - Les autres vendredis, Joji INC studio : Rue de la glacière 18
 	- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.4721218624245!2d4.3486306768884075!3d50.822418360511385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c58151f7402f%3A0xac11343b1830c08a!2sStudio%20JOJI%20INC!5e0!3m2!1sfr!2sbe!4v1770026999594!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br/>
