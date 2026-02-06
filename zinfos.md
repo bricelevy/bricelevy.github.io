@@ -39,12 +39,11 @@ Des ateliers de Qi Gong & Taichi Chuan ont lieu régulièrementle dimanche aprè
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.4613202822934!2d4.36794377688841!3d50.822618460496955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c5a006999473%3A0x10d6dc609e48c155!2sYogavall%C3%A9e!5e0!3m2!1sfr!2sbe!4v1770027341250!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br/>
 Ces ateliers sont ouverts à tous niveaux et peuvent être suivis indépendamment les uns des autres.<br>
-Le prix est de 35€, dont 10€ lors de l'inscription via la plateforme [Eversports](https://www.eversports.be/e/workshop/hQKqtNP).
+Le prix est de 35€, dont 10€ lors de l'inscription via la plateforme [Eversports](https://www.eversports.be/e/workshop/RRL8eLD).
 
-# Ateliers fin 2025
+# Ateliers 2026
 
-- Dimanche 12 octobre 2025 - 13h00 à 16h00 <br/>
-- Dimanche 9 novembre 2025 - 13h00 à 16h00<br/>
-- Dimanche 14 décembre 2025 - 13h00 à 16h00<br/>
+- Dimanche 29 mars 2026 - 14h00 à 17h00 <br/>
+- Dimanche 14 juin 2026 - 14h00 à 17h00<br/>
 
 
