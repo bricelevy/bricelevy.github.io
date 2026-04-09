@@ -19,6 +19,8 @@ Ces cours en extérieur sont ouverts à toutes et tous et sont gratuits.<br />
 <br/>
 ## Cours hebdomadaires
 
+### Attention, pas de cours le vendredi 1er mai !
+
 Les cours ont lieu les mardis et vendredis soir à Saint-Gilles :<br/>
 - Mardi de 20h30 à 22h, La  Tortue à Plumes : Rue André Hennebicq 43 - Qi Gong & Taichi Chuan
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.211164145187!2d4.332826776888637!3d50.827252460161525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c54563118629%3A0x2342029fb2afa6b6!2sLa%20tortue%20%C3%A0%20plumes!5e0!3m2!1sfr!2sbe!4v1770027235598!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
