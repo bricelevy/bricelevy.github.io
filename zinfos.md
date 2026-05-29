@@ -24,7 +24,7 @@ Les cours ont lieu les mardis et vendredis soir à Saint-Gilles :<br/>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.211164145187!2d4.332826776888637!3d50.827252460161525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c54563118629%3A0x2342029fb2afa6b6!2sLa%20tortue%20%C3%A0%20plumes!5e0!3m2!1sfr!2sbe!4v1770027235598!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br />
 - Vendredi de 18h00 à 19h30 - Qi Gong & Taichi Chuan
-    - Les vendredis 29 mai, 5 & 11 juin, Parc Duden
+    - Les vendredis 29 mai, 5 & 12 juin, Parc Duden
 	- <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2520.777336702971!2d4.333308!3d50.816764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTDCsDQ5JzAwLjQiTiA0wrAxOSc1OS45IkU!5e0!3m2!1sfr!2sbe!4v1720446829282!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     - Les autres vendredis, Joji INC studio : Rue de la glacière 18
 	- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.4721218624245!2d4.3486306768884075!3d50.822418360511385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c58151f7402f%3A0xac11343b1830c08a!2sStudio%20JOJI%20INC!5e0!3m2!1sfr!2sbe!4v1770026999594!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br/>
