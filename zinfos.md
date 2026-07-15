@@ -5,22 +5,21 @@ permalink: /infos/
 ---
 
 <!--
-## Cours de Tai Chi / Qi Gong au parc cet été 2025
-Retrouvons-nous cet été pour des séances de Tai Chi / Qi Gong au parc Duden ainsi qu'aux jardins de l'abbaye de La Cambre.<br/>
-Ces cours en extérieur sont ouverts à toutes et tous et sont gratuits.<br />
 - Les dimanches 20 juillet, 3 août, et 31 août de 11h à midi dans les jardins de l'abbaye de la Cambre à Ixelles (en haut des escaliers).
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2520.7221723233383!2d4.373245999999999!3d50.817786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTDCsDQ5JzA0LjAiTiA0wrAyMicyMy43IkU!5e0!3m2!1sfr!2sfr!4v1688481951956!5m2!1sfr!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br />
-
-- Les lundis 21 juillet, 4 août et 1er septembre, de 19h à 20h au parc Duden
-<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2520.777336702971!2d4.333308!3d50.816764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTDCsDQ5JzAwLjQiTiA0wrAxOSc1OS45IkU!5e0!3m2!1sfr!2sbe!4v1720446829282!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 -->
+## Cours de Tai Chi / Qi Gong au parc cet été 2026
+Retrouvons-nous cet été pour une séance de Tai Chi / Qi Gong au parc Duden.<br/>
+Ce cours en extérieur est gratuit et ouvert à toutes et tous.<br />
+- Le mardi 21 juillet, de 18h30 à 20h au parc Duden
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2520.777336702971!2d4.333308!3d50.816764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTDCsDQ5JzAwLjQiTiA0wrAxOSc1OS45IkU!5e0!3m2!1sfr!2sbe!4v1720446829282!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 <br/>
 ## Cours hebdomadaires
 
-### Le dernier cours de la saison 2025/2026 aura lieu le mardi 23 juin.<br/>
-### Reprise des cours en septembre, en attendant quelques ateliers de découverte gratuits auront lieu cet été (dates à venir)
+### Le dernier cours de la saison 2025/2026 aura lieu le mardi 23 juin. Reprise des cours le mardi 8 septembre 2026
 
 Les cours ont lieu les mardis et vendredis soir à Saint-Gilles :<br/>
 - Mardi de 20h30 à 22h, La  Tortue à Plumes : Rue André Hennebicq 43 - Qi Gong & Taichi Chuan
