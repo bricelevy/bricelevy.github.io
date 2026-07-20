@@ -19,7 +19,7 @@ Ce cours en extérieur est gratuit et ouvert à toutes et tous.<br />
 <br/>
 ## Cours hebdomadaires
 
-### Le dernier cours de la saison 2025/2026 aura lieu le mardi 23 juin. Reprise des cours le mardi 8 septembre 2026
+### Le dernier cours de la saison 2025/2026 aura lieu le mardi 23 juin. Reprise des cours le vendredi 4 septembre 2026
 
 Les cours ont lieu les mardis et vendredis soir à Saint-Gilles :<br/>
 - Mardi de 20h30 à 22h, La  Tortue à Plumes : Rue André Hennebicq 43 - Qi Gong & Taichi Chuan
