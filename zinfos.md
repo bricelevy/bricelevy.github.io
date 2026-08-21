@@ -20,8 +20,10 @@ Retrouvons-nous cet été pour des séances de Tai Chi / Qi Gong au parc Duden.<
 Ce cours en extérieur est gratuit et ouvert à toutes et tous.<br />
 - Le mardi 21 juillet, de 18h30 à 20h au parc Duden
 - Le lundi 24 août, de 18h30 à 20h au parc Duden
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2311.6045137274527!2d4.3313713012912345!3d50.81592161578991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTDCsDQ4JzU3LjIiTiA0wrAxOSc1MC4zIkU!5e0!3m2!1sfr!2sbe!4v1787328757011!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<!--
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2520.777336702971!2d4.333308!3d50.816764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTDCsDQ5JzAwLjQiTiA0wrAxOSc1OS45IkU!5e0!3m2!1sfr!2sbe!4v1720446829282!5m2!1sfr!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+-->
 
 <br/>
 ## Cours hebdomadaires
