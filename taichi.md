@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Tai Chi Chuan
+title: Taichi Chuan
 permalink: /taichi/
 ---
 
-![Tai Chi Quan](/images/Taiji_calli.jpg)
+![Taichi Chuan](/images/Taiji_calli.jpg)
 
 <br/>
-La « Boxe de la grand polarité » 太極拳 Taiji Quan (ou Tai Chi Chuan) est un art martial dont on attribue la paternité au légendaire ZHANG San Feng qui vécut dans les Monts Wudang situés au centre de la Chine. Bien que son nom soit tardif (fin XIXe siècle), il puise ses origines dans différents styles de boxe du Nei Jia Quan (boxe de style interne) et les sources connues remontent au XVIIe siècle.
+La « Boxe de la grand polarité » 太極拳 Taiji Quan (ou Taichi Chuan) est un art martial dont on attribue la paternité au légendaire ZHANG San Feng qui vécut dans les Monts Wudang situés au centre de la Chine. Bien que son nom soit tardif (fin XIXe siècle), il puise ses origines dans différents styles de boxe du Nei Jia Quan (boxe de style interne) et les sources connues remontent au XVIIe siècle.
 <br/><br/>
 Le concept de Taiji fait référence au changement perpétuel entre les pôles Yin et Yang, c'est donc un art de l'adaptabilité. Il nous enseigne comment savoir écouter la situation et y réagir de façon fluide par le geste juste.
 
