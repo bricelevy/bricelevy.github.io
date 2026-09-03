@@ -21,9 +21,12 @@ Some of the principles covered :
 
 <br/>
 # Agenda
-- October 4th 2026, 11:00 - 14:00, Wei Studio : Test Class
+- October 4th 2026, 11:00 - 14:00, Wei Studio (Rue de Veeweyde 49, 1070 Anderlecht) : Test Class.<br/> The class is free, we need your feedback !
+
+<!--
 - October 31st & November 1st 2026, 11:00 - 14:00, Location TBD
 - December 5 & 6 2026, 11:00 - 14:00, Location TBD
 - March 6 & 7 2027, 11:00 - 14:00, Location TBD
+-->
 
 If you are interested in the project, either as a participant or to schedule it at your venue, please let us know by email. : [contact@wuji.be](mailto:contact@wuji.be)
